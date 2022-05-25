@@ -3,6 +3,9 @@
 This is a small store maintenance project to learn the basics of OOP. 
 It allows you to track the receipts and sale of goods. Calculate expenses, income, profit for all time and for periods of time.
 
+The application saves data changes to the *data* folder and creates it automatically.
+To work in test mode, this package contains test data.
+Remove it to start from scratch.
 
 ## Requirements
 * pandas
