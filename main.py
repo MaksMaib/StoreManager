@@ -13,11 +13,11 @@ class ProdIncom:
         print('text: receive product price quantity  -- receiving')
         print('text: sell product price quantity     -- selling')
         print('text: goods_list                    -- list of incoming and outgoing item')
-        print('text: n_goods(product)                -- quantity of selected item')
+        print('text: n_goods product                 -- quantity of selected item')
         print('text: expenses                        -- cost of purchasing items')
         print('text: income                          -- cost of sold items')
         print('text: profit                          -- shop profit')
-        print('text: report(days)                    -- shop profit')
+        print('text: report days                     -- shop profit')
         print('text: exit                            -- to exit')
 
     def _is_correct(self, price, quantity):
