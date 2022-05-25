@@ -22,7 +22,6 @@ python main.py
 ## Available features
 
 | Command                         | Description                 |
-|---------------------------------|-----------------------------|
 | :---                            |                         ---:|
 |`receive product price quantity` | receiving                   |
 |`sell product price quantity`    | selling                    |
