@@ -21,14 +21,14 @@ python main.py
 
 ## Available features
 
-receive product price quantity  -- receiving 
-sell product price quantity     -- selling
-goods_list                      -- list of incoming and outgoing item
-n_goods(product)                -- quantity of selected item
-expenses                        -- cost of purchasing items
-income                          -- cost of sold items
-profit                          -- shop profit
-report(days)                    -- shop profit
-exit                            -- to exit
+receive product price quantity  -- receiving <br/>
+sell product price quantity     -- selling<br/>
+goods_list                      -- list of incoming and outgoing item<br/>
+n_goods(product)                -- quantity of selected item<br/>
+expenses                        -- cost of purchasing items<br/>
+income                          -- cost of sold items<br/>
+profit                          -- shop profit<br/>
+report(days)                    -- shop profit<br/>
+exit                            -- to exit<br/>
 
 
