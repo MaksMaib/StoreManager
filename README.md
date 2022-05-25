@@ -23,6 +23,7 @@ python main.py
 
 | Command                         | Description                 |
 | :---                            |                         ---:|
+|help| show available features|
 |`receive **product price quantity**` | receiving                   |
 |`sell **product price quantity**`    | selling                    |
 |`goods_list`                     | incoming and outgoing items |
