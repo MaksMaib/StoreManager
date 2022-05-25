@@ -34,6 +34,6 @@ python main.py
 |expenses                       |cost of purchasing items     |
 |income                         |cost of sold items           |
 |profit                         |shop profit                  |
-|report **days**                    |shop profit                  |
+|report **days**                    |report for n days                  |
 |exit                           |to exit                      |
 
