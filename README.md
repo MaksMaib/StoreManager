@@ -20,16 +20,13 @@ python main.py
 ```
 
 ## Available features
+
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-
 |receive product price quantity | receiving |
-|sell product price quantity |     selling<br/>
-|goods_list                      | list of incoming and outgoing items|
-|n_goods(product)                |quantity of selected item|
+|sell product price quantity |     selling|
+|goods_list  | list of incoming and outgoing items|
+|n_goods(product)   |quantity of selected item|
 |expenses                        |cost of purchasing items|
 |income                          |cost of sold items|
 |profit                          |shop profit|
