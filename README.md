@@ -23,15 +23,14 @@ python main.py
 
 | Command                         | Description                 |
 | :---                            |                         ---:|
-|help                  | show help| 
-|`receive product price quantity ` | receiving                   |
-|`sell  product price quantity `    | selling                    |
+|`receive **product price quantity**` | receiving                   |
+|`sell **product price quantity**`    | selling                    |
 |`goods_list`                     | incoming and outgoing items |
-|`n_goods  product `                |quantity of selected item    |
+|`n_goods **product**`                |quantity of selected item    |
 |`expenses`                       |cost of purchasing items     |
 |`income`                         |cost of sold items           |
 |`profit`                         |shop profit                  |
-|`report  days `                    |shop profit                  |
+|`report **days**`                    |shop profit                  |
 |`exit`                           |to exit                      |
 
 
